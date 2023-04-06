@@ -1,0 +1,29 @@
+*{
+    margin: 0%;
+    padding: 0;
+}
+body{
+
+}
+.cabeçalho{
+ background-color: rgb(100, 112, 112);
+ color: rgb(17, 87, 87);
+ display:flex ;
+ justify-content:center ;
+ padding: 36px 12px 25px 0;
+ margin: 25px;
+ font-family: 'Oswald', sans-serif;
+}
+#Quem-era{
+    width: 20%;
+}
+.França{
+display: inline-block;
+margin: 0 16px;
+padding: 24px 0;
+font-size: 24px;
+
+}
+.Bruxa{
+    position: initial;
+}
