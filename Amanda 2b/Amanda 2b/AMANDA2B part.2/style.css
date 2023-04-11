@@ -1,0 +1,37 @@
+*{
+    margin: 10%;
+    padding: -5%;
+}
+body{
+
+}
+.cabecalho{
+ background-color: rgb(100, 112, 112);
+ display:flex ;
+ justify-content: space-around;
+ padding: 36px 12px 25px 0;
+ margin: 0px 25px;
+ 
+ align-items: center;
+}
+
+.Joana{
+    font-family: 'Oswald', sans-serif;
+    color: #000;
+
+}
+
+#Quem-era{
+    width: 20%;
+}
+.França{
+display: inline-block;
+margin: 0px 16px;
+padding: 24px 12px;
+font-size: 24px;
+
+}
+.Bruxa{
+    position: initial;
+}
+
